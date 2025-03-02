@@ -1,0 +1,12 @@
+[package]
+name = "bubblegumsdk_native"
+version = "0.1.0"
+authors = []
+edition = "2021"
+
+[lib]
+name = "bubblegumsdk_native"
+crate-type = ["cdylib"]
+
+[dependencies]
+rustler = "0.36.1"
