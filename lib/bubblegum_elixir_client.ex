@@ -17,6 +17,6 @@ defmodule BubblegumElixirClient do
     :world
   end
 
-  def add(), do: :erlang.nif_error(:nif_not_loaded)
+  def create_tree_config("6PfweYuGyuakodXUHR3Lm3yTsxg2fzAsf74z6Mks7wv7", "6PfweYuGyuakodXUHR3Lm3yTsxg2fzAsf74z6Mks7wv7", 5, 5), do: :erlang.nif_error(:nif_not_loaded)
 
 end
